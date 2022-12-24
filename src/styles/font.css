@@ -1,0 +1,9 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/NunitoSansSemiBold.ttf"); font-family : "Nunito Sans"; font-weight : 600;  }
+ @font-face { font-style : normal; src: url("assets/fonts/NunitoSansRegular.ttf"); font-family : "Nunito Sans"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/NunitoSansBold.ttf"); font-family : "Nunito Sans"; font-weight : 700;  }
+ @font-face { font-style : normal; src: url("assets/fonts/NotoSansJPRegular.otf"); font-family : "Noto Sans JP"; font-weight : 400;  }
+ @font-face { font-style : normal; src: url("assets/fonts/RobotoRegular.ttf"); font-family : "Roboto"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoBold.ttf"); font-family : "Roboto"; font-weight : 700;  }
+ @font-face { font-style : bold; src: url("assets/fonts/RobotoMedium.ttf"); font-family : "Roboto"; font-weight : 500;  }
+ @font-face { font-style : bold; src: url("assets/fonts/NunitoSansExtraBold.ttf"); font-family : "Nunito Sans"; font-weight : 800;  }
